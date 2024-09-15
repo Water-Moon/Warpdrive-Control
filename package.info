@@ -1,0 +1,1 @@
+{version="1.7",name="Simple Warp",info="1.7版本 - 已更新：\n添加了对OpenGlasses的支持。",paths={"/bin"},files={"/init.lua","/bin/warpdrive.lua"},prereq={"https://raw.githubusercontent.com/Water-Moon/OC-GUI-Library/main"}}
